@@ -92,7 +92,7 @@ namespace StackUsingLinkedList_CSharp
                     default:
                         Console.WriteLine("\nInvalid Choice");
                         break;
-
+                }
             }
         }
     }
